@@ -1,0 +1,3 @@
+F0001, Storage Shelf (Bedside), Home Decor Center, 172.14, 0.72, 2500
+F0002, ZigZag TV Table, Modern Home, 172.14, 0.54, 1200
+F0003, Side Table, Modern Home, 172.14, 0.41, 1600

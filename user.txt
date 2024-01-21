@@ -1,0 +1,4 @@
+A1000, aiden, password, admin, 0128391823, aiden@gmail.com, active
+O1002, ivan, password, officer, 123123132, ivan@gmail.com, active
+SP001, john, password, salesperson, 0128391823, john@gmail.com, active
+SP002, pikqi, password, salesperson, 0128391823, pikqi@gmail.com, active
